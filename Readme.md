@@ -22,4 +22,4 @@
                                                              
                 Todo: Add SDCard, Touchscreen                
 
-     Uses MCUFriend library with modified utility\mcufriend_shield.h
+         Uses  modified utility\mcufriend_shield.h

@@ -1,13 +1,13 @@
 # 8 Bit Uno TFT LCD Sheild STM32 BluePill Demo                  
 
 ## Pinouts:
- STM32      TFT LCD
- PA0-PA7    LCD_D0-LCD_D7          
- PB9        LCD_RST             
- PB8        LCD_CS              
- PB7        LCD_RS              
- PB6        LCD_WR              
- PB5        LCD_RD              
+**STM32      TFT LCD**
+PA0-PA7    LCD_D0-LCD_D7 
+PB9        LCD_RST
+PB8        LCD_CS
+PB7        LCD_RS
+PB6        LCD_WR
+PB5        LCD_RD
 
 ## Demos:                             
   Amstrad CPC bootscreen with custom font           

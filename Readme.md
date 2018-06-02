@@ -8,7 +8,7 @@
         WR          PB6          LCD_WR              
         RD          PB5          LCD_RD              
 
-                ##   Demos:                             
+                  Demos:                             
     Amstrad CPC bootscreen with custom font           
                 Mandelbrot                           
               Raytraced Scene                        

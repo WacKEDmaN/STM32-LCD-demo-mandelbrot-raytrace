@@ -1,5 +1,5 @@
 #define ARDUINO_BLUEPILL_F103C8
-//#define USE_SPECIAL             //check for custom drivers
+//#define USE_SPECIAL         //check for custom drivers
 #if defined(USE_SPECIAL)
 #include "mcufriend_special.h"
 #if !defined(USE_SPECIAL_FAIL)

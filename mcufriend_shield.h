@@ -1,3 +1,4 @@
+// Place this file in libraries\MCUFRIEND_kbv\utility
 #define ARDUINO_BLUEPILL_F103C8
 //#define USE_SPECIAL         //check for custom drivers
 #if defined(USE_SPECIAL)

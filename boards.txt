@@ -853,7 +853,7 @@ GenF1.build.series=STM32F1xx
 GenF1.build.cmsis_lib_gcc=arm_cortexM3l_math
 GenF1.build.extra_flags=-D{build.product_line} {build.enable_usb} {build.xSerial} {build.bootloader_flags}
 
-##### edited here
+##### edited here..
 GenF1.menu.cpu_speed.speed_72mhz=72Mhz (Normal)
 GenF1.menu.cpu_speed.speed_72mhz.build.f_cpu=72000000L
 
